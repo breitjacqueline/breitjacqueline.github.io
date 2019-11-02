@@ -94,6 +94,27 @@ nav ul{
     border-bottom-right-radius: 10px;
 }
 
+a{
+    font-size: 20px;
+    text-decoration: none;
+}
+ 
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: maroon;
+}
+
+a:active { 
+    color: maroon;
+}
+
 #homepage {
     color: maroon;
 }
@@ -106,35 +127,11 @@ nav ul{
     color: maroon;
 }
 
-a{
-    font-size: 20px;
-    color: maroon;
-    text-decoration: none;
-}
- 
-a:link {
-    color: white;
-}
-
-a:visited {
-    color: maroon;
-}
-
-a:hover {
-    color: maroon;
-}
-
-a:active { 
-    color: maroon;
-}
 
 form {
 
     width: 370px;
     padding: 20px;
-
-
-
 }
 
 label {
