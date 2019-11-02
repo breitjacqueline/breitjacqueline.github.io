@@ -14,6 +14,11 @@ div {
     text-align: center;
 }
 
+.icon:hover {
+    width: 25px;
+    height: 25px;
+}
+
 .prepicture {
     float: left;
     margin: 5px;
@@ -89,25 +94,22 @@ nav ul{
     border-bottom-right-radius: 10px;
 }
 
-#currentpage{
+#homepage {
     color: maroon;
 }
 
-#currentpage2{
+#contactpage {
     color: maroon;
 }
 
-#currentpage3{
+#aboutpage {
     color: maroon;
 }
+
 a{
     font-size: 20px;
     color: maroon;
     text-decoration: none;
-}
-
-#aufgabe2 {
-    color: maroon;
 }
  
 a:link {
@@ -115,7 +117,7 @@ a:link {
 }
 
 a:visited {
-    color: maroon
+    color: maroon;
 }
 
 a:hover {
