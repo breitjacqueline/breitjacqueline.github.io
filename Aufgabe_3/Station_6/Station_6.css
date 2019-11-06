@@ -1,0 +1,44 @@
+body {
+    background-image: url(./images/bg.png);
+    text-align: center;  
+}
+
+#wrapper {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+h1 {
+    position: absolute;
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 2em;
+    color: white;
+    top: 5%;
+    left: 5%;
+}
+
+.Abschnitt1 {
+    position: absolute;
+    column-count: 2;
+    column-rule-style: dotted;
+    text-align: left;
+    color: white;
+    font-family: sans-serif;
+    top: 30%;
+    left: 5%;
+}
+
+.Abschnitt2 {
+    position: absolute;
+    column-count: 3;
+    column-rule-style: dotted;
+    text-align: left;
+    color: white;
+    font-family: sans-serif;
+    bottom: 15%;
+    left: 5%;
+}

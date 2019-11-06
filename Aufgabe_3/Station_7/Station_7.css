@@ -1,0 +1,67 @@
+body {
+    background-image: url(./images/bg.png);
+    text-align: center;
+}
+
+#wrapper {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    position: absolute;
+    color: white;
+    font-family: sans-serif;
+    top: 28%;
+    left: 10%;
+    text-align: left;
+}
+
+p {
+    position: absolute;
+    color: white;
+    font-family: sans-serif;
+    top: 50%;
+    left: 8%;
+    text-align: left;
+}
+
+video {
+    position: absolute;
+    right: 4%;
+    bottom: 8%;
+}
+.gifts {
+    position: absolute;
+    right: -5%;
+    bottom: -5%;
+}
+
+.plant {
+    position: absolute;
+    left: -15%;
+    top: -15%;
+}
+
+.Stern1 {
+    position: absolute;
+    top: 40%;
+    left: 10%;
+}
+
+.Stern2 {
+    position: absolute;
+    top: 15%;
+    left: 40%;
+}
+
+.Stern3 {
+    position: absolute;
+    top: 30%;
+    right: 40%;
+}
+
+    
+    
