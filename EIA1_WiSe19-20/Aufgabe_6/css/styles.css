@@ -12,15 +12,15 @@ nav {
     margin-bottom: 60px;
 }
 
-.Title {
-    font-family: sans-serif;
-    color: white;
-}
-
 section {
     display: inline-block;
     margin: 20px;
     width: 200px;
+}
+
+.EmissionText {
+    font-family: sans-serif;
+    color: white;
 }
 
 .chartWrapper {
